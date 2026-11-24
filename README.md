@@ -33,8 +33,8 @@ Step 7: Save and run the application
 ```
 /*
 Program to display animation operation”.
-Developed by: Deepika D
-Registeration Number: 212225040059
+Developed by: VISHWAJITH P
+Registeration Number: 212225220122
 */
 
 Activity_main.xml
